@@ -25,6 +25,7 @@ let's be friends with us and make relation.
 [![Laravel](https://img.shields.io/badge/Framework-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
 [![Flutter](https://img.shields.io/badge/Framework-Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Ionic](https://img.shields.io/badge/Framework-Ionic-%233880FF?style=flat-square&logo=ionic&logoColor=white)](https://ionicframework.com)
+[![macOS](https://img.shields.io/badge/OS-macOS-%23008FFF?style=flat-square&logo=apple&logoColor=white)](https://apple.com)
 [![Fedora](https://img.shields.io/badge/OS-Fedora-%23294172?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org)
 [![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![CentOS](https://img.shields.io/badge/OS-CentOS-%23E95420?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org)
